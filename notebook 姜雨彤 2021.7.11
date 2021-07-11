@@ -1,0 +1,15 @@
+
+git add将修改的传到本地仓库
+git push将本地仓库的内容上传
+一、认识ARDUINO
+1、ARDUNIO电路图
+2、ARDUINO接口图
+二、ARDUINO开发环境
+1、BLINK
+2、常见问题处理：检查代码，端口设置
+3、安装FRITZING画电路图
+4、虚拟环境www.thinkercad.com
+三、实现跑马灯
+四、串口，并口
+1、串口作用：连接，调试目标设备
+2、串口用法：初始化，输出print，读用read
